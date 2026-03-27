@@ -1,0 +1,16 @@
+##### After make a new folder in my git #####
+##### File should be exist in my folder #####
+1. Enter the local GitHub folder
+cd c:\Users\MJBan\repo\repoTest2\
+
+2. check the status (optional)
+git status
+
+3. add the changed ones
+git add .
+
+4. make commitment
+git commit -m "changes for what"
+
+5. push to GitHub
+git push origin main
